@@ -1,0 +1,9 @@
+<header className="app-header">
+        <img className='app-header-logo' src="/images/signature.png" / >
+      </header>
+
+
+
+       <Picture title="Picture 2" thumbnailUrl="/images/2.png"/>
+        <Picture title="Picture 3" thumbnailUrl="/images/3."/>
+        <Picture title="Picture 4" thumbnailUrl="/images/4.jpeg"/>
